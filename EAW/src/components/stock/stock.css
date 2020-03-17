@@ -1,0 +1,50 @@
+.logo {
+    width: 45px
+}
+
+.info-box-icon {
+    font-size: 0
+}
+
+.info-box-content {
+    padding: 5px 0px;
+}
+
+.p_custom {
+    margin-top: 12px;
+    margin-bottom: 0
+}
+
+h2 {
+    margin: 0;
+}
+
+
+
+/* Datatables */
+
+/*insert icon to filter */
+
+
+.table>tbody>tr>td,
+.table>tbody>tr>th,
+.table>tfoot>tr>td,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>thead>tr>th {
+    vertical-align: unset
+}
+
+.skin-blue .sidebar a {
+    color: white
+}
+
+.skin-blue .sidebar-menu>li.header {
+    color: white
+}
+
+.info-box-icon {
+    background: white
+}
+ 
+
